@@ -1,0 +1,9 @@
+{
+  "id": "Obsidian-bulk-property-remover",
+  "name": "Bulk Property Remover",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Removes specified YAML frontmatter properties across all Markdown files in the vault.",
+  "author": "Quincy",
+  "isDesktopOnly": false
+}
