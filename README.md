@@ -1,2 +1,2 @@
 # Obsidian-bulk-property-remover
-to bulk-delete specific YAML frontmatter properties across an entire vault
+Removes specified YAML frontmatter properties across all Markdown files in the vault
